@@ -61,12 +61,6 @@ Me interesa especialmente:
 
 ---
 
-## 📈 Actividad en GitHub
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=docosovo\&theme=tokyo-night\&hide_border=true)
-
----
-
 ## 📌 Proyectos
 
 ### 🛒 Sistema para Minimercado

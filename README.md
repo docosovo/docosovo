@@ -88,14 +88,11 @@ Tecnólogo en Análisis y Desarrollo de Software (SENA) con sólida formación e
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=docosovo
-&show_icons=true&include_all_commits=true&hide_border=true&bg_color=3F0D12&title_color=F2A3A3&icon_color=E53935&text_color=FDE8E8&locale=es" alt="Estadísticas de GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=docosovo
-&layout=compact&hide_border=true&bg_color=3F0D12&title_color=F2A3A3&text_color=FDE8E8&locale=es" alt="Lenguajes más utilizados" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=docosovo&show_icons=true&include_all_commits=true&hide_border=true&bg_color=3F0D12&title_color=F2A3A3&icon_color=E53935&text_color=FDE8E8&locale=es" alt="Estadísticas de GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=docosovo&layout=compact&hide_border=true&bg_color=3F0D12&title_color=F2A3A3&text_color=FDE8E8&locale=es" alt="Lenguajes más utilizados" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=docosovo
-hide_border=true&background=3F0D12&ring=E53935&fire=E53935&currStreakLabel=F2A3A3&sideLabels=F2A3A3&currStreakNum=FDE8E8&sideNums=FDE8E8&dates=F2A3A3&locale=es" alt="Racha de contribuciones de GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=docosovo&hide_border=true&background=3F0D12&ring=E53935&fire=E53935&currStreakLabel=F2A3A3&sideLabels=F2A3A3&currStreakNum=FDE8E8&sideNums=FDE8E8&dates=F2A3A3&locale=es" alt="Racha de contribuciones de GitHub"/>
 </p>
 
 

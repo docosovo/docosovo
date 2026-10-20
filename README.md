@@ -1,124 +1,102 @@
-# 👋 ¡Hola! Soy Doco
+<!-- BANNER PRINCIPAL -->
+<div align="center">
+  <img src="assets/banner.png" alt="Banner de Dani Castañeda, desarrollador full stack" width="100%">
+</div>
 
-💻 **Estudiante de Desarrollo de Software**
-🚀 Aprendiendo, creando proyectos y mejorando mis habilidades de programación.
 
----
-
-## 🧑‍💻 Sobre mí
-
-Soy **Daniel Castañeda Tovar**, aunque en internet utilizo el nombre **Doco**.
-
-Actualmente estoy aprendiendo desarrollo de software y trabajando en diferentes proyectos para poner en práctica mis conocimientos.
-
-Me interesa especialmente:
-
-* 🌐 Desarrollo web
-* 💻 Programación
-* 🗄️ Bases de datos
-* ⚙️ Desarrollo de aplicaciones
-* 🧠 Aprender nuevas tecnologías
-* 🚀 Crear proyectos propios
 
 ---
 
-## 🛠️ Tecnologías
-
-### Lenguajes
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Frameworks y herramientas
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-### Bases de datos
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+## 📞 Información de Contacto
+**Teléfono:** +57 320 584 2241  
+**Correo Electrónico:** doco93229@gmail.com
+**Ubicación:** Medellín, Colombia  
+**LinkedIn:** [linkedin.com/in/daniel-estiven-casta%C3%B1eda-tovar](https://www.linkedin.com/in/daniel-estiven-casta%C3%B1eda-tovar)  
+**Portafolio / GitHub:** [github.com/docosovo](https://github.com/docosovo)
 
 ---
 
-
-## 🔥 Racha de GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=docosovo\&theme=tokyonight\&hide_border=true)
+## 💡 Perfil Profesional
+Tecnólogo en Análisis y Desarrollo de Software (SENA) con sólida formación en el diseño, implementación y mantenimiento de aplicaciones web full stack y soluciones de software a medida. Experiencia en arquitecturas frontend con HTML5, CSS3, JavaScript y Bootstrap, combinadas con lógica backend en Node.js y PHP. Dominio en el modelado, optimización y gestión de bases de datos relacionales (MySQL, PostgreSQL, MariaDB) y Supabase. Capacidad para liderar la arquitectura de requerimientos (SRS), optimizar procesos logísticos e inventarios e integrar control de versiones y automatización.
 
 ---
 
-## 📌 Proyectos
+## 💼 Experiencia Laboral
 
-### 🛒 Sistema para Minimercado
+### **Líder de Desarrollo Backend y Bases de Datos** — Sistema de Logística y Entregas (Altavista)
+*Marzo 2026 – Presente* | *Medellín, Colombia*  
+▸ Diseñé e implementé la arquitectura de base de datos relacional en PostgreSQL y MySQL, optimizando los tiempos de consulta en un 25% con funciones almacenadas y vistas indexadas.  
+▸ Desarrollé los módulos backend de inventario y trazabilidad de domicilios con Node.js, garantizando control de stock en tiempo real para comercios locales.  
+▸ Redacté las especificaciones técnicas y la documentación de requisitos (SRS) bajo los estándares de calidad del programa ADSO.
 
-Proyecto web orientado a la gestión de un minimercado, incluyendo funcionalidades para usuarios, productos, pedidos y entregas.
-
-**Tecnologías:** HTML, CSS, JavaScript, Bootstrap y SQL.
-
-### 🧮 Calculadora Web
-
-Aplicación web para realizar operaciones matemáticas mediante una interfaz sencilla.
-
-**Tecnologías:** HTML, Bootstrap y JavaScript.
-
-### 🗄️ Proyectos con Bases de Datos
-
-Prácticas de creación y administración de bases de datos, incluyendo tablas, relaciones, consultas y procedimientos SQL.
+### **Desarrollador Web Full Stack** — "NEXT TECH-MECH DOOM"
+*Marzo 2024 – Septiembre 2025* | *Medellín, Colombia*  
+▸ Construí el panel de administración y la interfaz de comercio electrónico para la pagina de compra de productos electricos con PHP, JavaScript, HTML5, CSS3.
+▸ Integré autenticación de usuarios y gestión de catálogo conectada a MySQL, con control de transacciones seguras.  
+▸ Diseñé el sistema de retroalimentación y soporte postventa, mejorando la experiencia del cliente en el flujo de pedidos.
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🎓 Formación Académica
 
-* JavaScript
-* Node.js
-* SQL
-* Git y GitHub
-* Desarrollo web
-* Bases de datos
-* Buenas prácticas de programación
+### **Tecnología en Análisis y Desarrollo de Software (ADSO)**
+*Servicio Nacional de Aprendizaje (SENA) — Ficha 3425707* | *En curso (2026)*
 
 ---
 
-## 🎯 Mis objetivos
+## 🛠️ Habilidades (Skills)
 
-* 🚀 Mejorar mis habilidades como desarrollador.
-* 💻 Crear proyectos cada vez más completos.
-* 🌐 Aprender más sobre desarrollo web.
-* 🗄️ Profundizar mis conocimientos en bases de datos.
-* ⚙️ Aprender desarrollo backend.
-* 📚 Conocer nuevas tecnologías.
-* 💼 Construir un buen portafolio de proyectos.
-
----
-
-## 🌐 Mis redes
-
-[![GitHub](https://img.shields.io/badge/GitHub-@docosovo-181717?style=for-the-badge\&logo=github)](https://github.com/docosovo)
-
-[![YouTube](https://img.shields.io/badge/YouTube-@marivalie-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@marivalie)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Estiven%20Castañeda%20Tovar-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/daniel-estiven-castañeda-tovar-2400a5412)
+**Habilidades Duras (Hard Skills):** JavaScript, HTML5, CSS3, Bootstrap, Node.js, SQL, PL/pgSQL, modelado de bases de datos, levantamiento de requerimientos (SRS), Git y GitHub  
+**Habilidades Blandas (Soft Skills):** Análisis técnico de requerimientos, resolución de problemas complejos, trabajo colaborativo, adaptabilidad tecnológica y pensamiento lógico  
+**Idiomas:**
+  * Español: Nativo
+  * Inglés: Técnico (lectura e interpretación de documentación de software)
+  * Catalán: Básico (Capacidad en entablar una conversación)
 
 ---
 
-## 💡 Un poco más sobre mi forma de aprender
-
-> 📚 Aprender haciendo
-> 💻 Practicar constantemente
-> 🧩 Resolver problemas
-> 🚀 Convertir ideas en proyectos
+## 📚 Cursos, Certificaciones y Formación Continua
+**Diseño e Implementación de Bases de Datos Relacionales (SQL / PL/pgSQL)** — *SENA (2026)*  
+**Desarrollo de Aplicaciones Web Frontend y Backend** — *SENA (2024 – 2026)*
 
 ---
 
-## 📫 Contacto
+## 🛠️ Stack Tecnológico y Herramientas
 
-Si quieres conocer mis proyectos o ver lo que estoy aprendiendo, puedes visitar mi perfil de GitHub.
+### Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/JavaScript-B71C1C?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-B71C1C?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-B71C1C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-B71C1C?style=for-the-badge&logo=css3&logoColor=white)
 
-**⭐ Gracias por visitar mi perfil.**
+### Frameworks & Librerías Web
+![Node.js](https://img.shields.io/badge/Node.js-D32F2F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-D32F2F?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-B71C1C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-B71C1C?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-B71C1C?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Herramientas, Control de Versiones & Entornos
+![Git](https://img.shields.io/badge/Git-D32F2F?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-D32F2F?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-D32F2F?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=docosovo
+&show_icons=true&include_all_commits=true&hide_border=true&bg_color=3F0D12&title_color=F2A3A3&icon_color=E53935&text_color=FDE8E8&locale=es" alt="Estadísticas de GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=docosovo
+&layout=compact&hide_border=true&bg_color=3F0D12&title_color=F2A3A3&text_color=FDE8E8&locale=es" alt="Lenguajes más utilizados" height="180"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=docosovo
+hide_border=true&background=3F0D12&ring=E53935&fire=E53935&currStreakLabel=F2A3A3&sideLabels=F2A3A3&currStreakNum=FDE8E8&sideNums=FDE8E8&dates=F2A3A3&locale=es" alt="Racha de contribuciones de GitHub"/>
+</p>
+
+
+<p align="center"><em>Aprendiendo, construyendo y mejorando cada día.</em></p>

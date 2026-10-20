@@ -1,6 +1,6 @@
 <!-- BANNER PRINCIPAL -->
 <div align="center">
-  <img src="assets/banner.png" alt="Banner de Dani Castañeda, desarrollador full stack" width="100%">
+  <img src="assets/banner.jpg" alt="Banner de Dani Castañeda, desarrollador full stack" width="100%">
 </div>
 
 
